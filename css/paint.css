@@ -16,7 +16,13 @@ body {
   border-bottom: 60px solid white;
 }
 
-.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+.tag-1,
+#tag-2,
+#tag-3,
+#tag-4,
+#tag-5,
+#tag-6,
+#tag-7 {
   position: absolute;
   top: 0;
   left: 0;
@@ -33,7 +39,7 @@ body {
 #wall #tag-2 {
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
-  display: block;
+  display: ;
 }
 
 div#wall #tag-3.slick {
